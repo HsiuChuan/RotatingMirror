@@ -12,7 +12,8 @@ This python script is writen to find the best combination to construct the whole
 
 ![](Figs/scatterPlot.png)
 
-c. The final result of the 
+c. 3D image analysis
+
 ![](Figs/Fig08_3D_Display.png)
 
 ![](Figs/3Dplot.png)
